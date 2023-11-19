@@ -43,12 +43,12 @@ body {
 }
 
 .active-person {
-  background: #08529d;
+  background: cyan;
   box-shadow: 0 0 0.5em 0.1em #c3c3c333;
 }
 
 .chat-container {
-  background: #15202b;
+  background: whitesmoke;
   font-family: 'Roboto', sans-serif;
   border-radius: 0.5em;
   padding: 0.5em 1.25em;
@@ -60,7 +60,7 @@ body {
 
 .chat-header {
   margin-bottom: 1em;
-  color: #fff;
+  color: black;
 }
 
 .chat-header h2 {
@@ -103,7 +103,7 @@ body {
 }
 
 .blue-bg {
-  background-color: #1c9bef;
+  background-color: steelblue;
 }
 
 .gray-bg {
